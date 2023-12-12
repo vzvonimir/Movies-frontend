@@ -1,4 +1,4 @@
-#Project overview
+# Project Movies
 - React.js
 - Applying Bootstrap to our React application
 - Implementing the Use State and Use Effect Hooks
