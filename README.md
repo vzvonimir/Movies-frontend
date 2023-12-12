@@ -1,3 +1,14 @@
+#Project overview
+- React.js
+- Applying Bootstrap to our React application
+- Implementing the Use State and Use Effect Hooks
+- Create Home and Hero Component
+- Style the Carousel
+- Create Header Component (Navigation)
+- Create Trailer Component with react-player
+- Create Movie Reviews Functionality
+- Add and Get Reviews with HTTP Requests
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
